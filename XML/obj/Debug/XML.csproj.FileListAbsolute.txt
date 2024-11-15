@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\Visual\XML\bin\Debug\XML.exe.config
+C:\Users\DELL\Desktop\Visual\XML\bin\Debug\XML.exe
+C:\Users\DELL\Desktop\Visual\XML\bin\Debug\XML.pdb
+C:\Users\DELL\Desktop\Visual\XML\obj\Debug\XML.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Visual\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Visual\XML\obj\Debug\XML.exe
+C:\Users\DELL\Desktop\Visual\XML\obj\Debug\XML.pdb
